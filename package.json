@@ -1,0 +1,18 @@
+{
+  "name": "huskar",
+  "version": "0.0.1",
+  "description": "A tool which enables UI test automation",
+  "license": "MIT",
+  "author": "Lee Yao <yaoli111144@gmail.com>",
+  "keywords": [
+    "test",
+    "UI",
+    "automation",
+    "frontend"
+  ],
+  "homepage": "https://github.com/icecreamliker/huskar",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:icecreamliker/huskar.git"
+  }
+}
